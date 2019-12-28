@@ -10,11 +10,11 @@ The map is currently generated at random as a 5 x 5 grid with random elevations.
 
 CONTROLS:
 
-  WASD: move cube from tile to tile
+  -WASD: move cube from tile to tile
   
-  Q/E: pan camera around map
+  -Q/E: pan camera around map
   
-  ScrollWheel: Zoom in/out
+  -ScrollWheel: Zoom in/out
 
 
 
